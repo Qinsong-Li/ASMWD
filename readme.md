@@ -4,7 +4,7 @@ This is the matlab implementation for the paper '**Anisotropic Spectral Manifold
 
 In this paper, we extend the Spectral graph Wavelet transform to the anisotropic case in manifold based on the anisotropic Laplace-Beltrami Operator (ALBO), termed Anisotropic Spectral Manifold Wavelet Transform (ASMWT). ASMWT allows to comprehensively analyse signals from multiple wavelet diffusion directions on local manifold regions ofthe shape with a series of low-pass and band-pass frequency filters in each direction. Based on the ASMWT coefficients ofa very simple signal, the ASMWD is efficiently constructed as a localizable and discriminative multi-scale point descriptor. Since the wavelets used in our descriptor are direction-sensitive and able to robustly reconstruct the signals with a finite number of scales, it makes our descriptor compact, efficient, and **unambiguous under intrinsic symmetry**.
 
-![ASMWD_intrinsic_diss](E:\CGF_ASMWD\images\ASMWD_intrinsic_diss.jpg)
+![ASMWD_intrinsic_diss](https://github.com/Qinsong-Li/ASMWD/blob/main/images/ASMWD_intrinsic_diss.jpg)
 
 
 
